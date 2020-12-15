@@ -3,7 +3,7 @@ import time
 name_list = []
 age_list = []
 phone_number_list = []
-clients_list = []
+clients_list = ([name_list + age_list + phone_number_list])
 
 
 while True:
